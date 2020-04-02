@@ -18,7 +18,7 @@ If you use slack.gs, you have to set script property.
 // slack.js
 postSlack(webhookUrl, "HelloWorld");
 ```
-```Google Apps Script
+```JavaScript
 // slack.gs
 slack.post("HelloWorld");
 ```
